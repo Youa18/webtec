@@ -1,0 +1,13 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+
+.container-fluid mt-3{
+      width: 100%;
+      background: linear-gradienf(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%,),url(images.jpeg) ;
+      background-position: center;
+      background-size: center;
+      height: 109vh;
+}
+
